@@ -1,0 +1,138 @@
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\appsettings.json
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.exe
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.deps.json
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.runtimeconfig.json
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.runtimeconfig.dev.json
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\ref\project_manager.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.pdb
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.Views.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\project_manager.Views.pdb
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Contentful.AspNetCore.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Contentful.Core.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.AssemblyInfo.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.RazorAssemblyInfo.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.RazorAssemblyInfo.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\staticwebassets\project_manager.StaticWebAssets.Manifest.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\staticwebassets\project_manager.StaticWebAssets.xml
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\scopedcss\bundle\project_manager.styles.css
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.TagHelpers.input.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.TagHelpers.output.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.RazorCoreGenerate.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.RazorTargetAssemblyInfo.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.RazorTargetAssemblyInfo.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.Views.pdb
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.csproj.CopyComplete
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\ref\project_manager.dll
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.pdb
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\project_manager.genruntimeconfig.cache
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Home\edit.cshtml.g.cs
+C:\Users\cesar\Documents\devops-project\TM project manager\project_manager\obj\Debug\net5.0\Razor\Views\Home\Add.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\appsettings.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.exe
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.deps.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.runtimeconfig.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.runtimeconfig.dev.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.pdb
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.Views.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.Views.pdb
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Contentful.AspNetCore.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Contentful.Core.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.AssemblyInfo.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.RazorAssemblyInfo.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.RazorAssemblyInfo.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\project_manager.StaticWebAssets.Manifest.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\scopedcss\bundle\project_manager.styles.css
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.TagHelpers.input.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.TagHelpers.output.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.RazorCoreGenerate.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.RazorTargetAssemblyInfo.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.RazorTargetAssemblyInfo.cs
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.Views.pdb
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.csproj.CopyComplete
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\ref\project_manager.dll
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.pdb
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.genruntimeconfig.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\bin\Debug\net5.0\project_manager.StaticWebAssets.xml
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\project_manager.sourcelink.json
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\project_manager.StaticWebAssets.Pack.cache
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\msbuild.project_manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\msbuild.build.project_manager.props
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.project_manager.props
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.project_manager.props
+C:\Users\cesar\Desktop\TM_project_dashboard\project_manager\obj\Debug\net5.0\refint\project_manager.dll

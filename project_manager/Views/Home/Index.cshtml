@@ -1,0 +1,34 @@
+﻿@using Contentful.Core.Models
+
+@model ContentfulCollection<Project>
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<div class="container row">
+    @foreach (var project in Model)
+    {
+    <div class="card mx-2 mb-2 @project.DeadlineStatus" style="width: 18rem; height: 650px;">
+        <img src="@project.bannerImg.File.Url" class="card-img-top" alt="@project.bannerImg.Description">
+        <div class="card-body">
+            <h5 class="card-title">@project.projectTitle</h5>
+            <p class="card-text font-weight-bold">deadline: @project.FormattedDeadline</p>
+            <h6>To do:</h6>
+            <p class="card-text">
+                <ul>
+                    @foreach (var item in @project.ToDoItems)
+                    {
+                        <li>@item</li>
+                    }
+                </ul>
+            </p>
+            <p id="edit" class="text-center"><a href="https://app.contentful.com/spaces/3tje3y0tu9pr/entries?id=fxYqpAAvbxVWbNVv&title=Overview&contentTypeId=projectTm&order.fieldId=updatedAt&order.direction=descending&displayedFieldIds=contentType&displayedFieldIds=updatedAt&displayedFieldIds=author" class="edit"><i class="fa-solid fa-pen-to-square"></i> edit</a></p>
+        </div>
+    </div>
+    }
+    
+    <div id="add-btn">
+        <a href="https://app.contentful.com/spaces/3tje3y0tu9pr/entries?id=fxYqpAAvbxVWbNVv&title=Overview&contentTypeId=projectTm&order.fieldId=updatedAt&order.direction=descending&displayedFieldIds=contentType&displayedFieldIds=updatedAt&displayedFieldIds=author"><i class="fa-solid fa-plus text-white"></i></a>
+    </div>
+</div>
+
