@@ -20,7 +20,7 @@ WORKDIR /app
 COPY --from=build-env /app/publish .
 
 # Set the entry point for the container
-ENTRYPOINT ["dotnet", "YourProjectName.dll"]
+ENTRYPOINT ["dotnet", "project_manager.dll"]
 
 # Expose the port your app is running on (if needed)
 EXPOSE 80
