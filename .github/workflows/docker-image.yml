@@ -15,8 +15,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Docker Login
-      run: docker login -u ${{ secrets.DOCKER_USER }} -p ${{ secrets.DOCKER_PASSWORD }}
+      run: docker login -u r0929448 -p ${{ secrets.DOCKER_PASSWORD }}
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag cvl-project-planner:latest
     - name: upload container to Docker Hub with push
-      run: docker push ${{ secrets.DOCKER_USER }}/cvl-project-planner:latest
+      run: docker push r0929448/cvl-project-planner:latest
