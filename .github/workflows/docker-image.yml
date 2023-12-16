@@ -17,6 +17,6 @@ jobs:
     - name: Docker Login
       run: docker login -u r0929448 -p ${{ secrets.DOCKER_PASSWORD }}
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag cvl-project-planner:latest
+      run: docker build . --file Dockerfile --tag r0929448/cvl-project-planner:latest
     - name: upload container to Docker Hub with push
       run: docker push r0929448/cvl-project-planner:latest
